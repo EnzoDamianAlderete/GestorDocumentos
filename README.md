@@ -12,9 +12,9 @@ Este proyecto es una aplicación de frontend que simula un gestor de documentos.
 ## Instalación
 Para levantar el proyecto en tu entorno local, sigue estos pasos:
 
-Clona el repositorio:
-git clone https://github.com/EnzoDamianAlderete/GestorDocumentos.git
-Navega al directorio del proyecto:
+# Clona el repositorio:
+-git clone https://github.com/EnzoDamianAlderete/GestorDocumentos.git
+-Navega al directorio del proyecto:
 
 cd gestor-documentos
 Instala las dependencias:
