@@ -1,12 +1,15 @@
-Gestor de Documentos
+# Gestor de Documentos
+
 Este proyecto es una aplicación de frontend que simula un gestor de documentos. La aplicación permite listar documentos con sus respectivos detalles y simula operaciones CRUD utilizando datos almacenados en un archivo JSON.
 
-Tecnologías Utilizadas
-React: Librería de JavaScript para construir interfaces de usuario.
-TailwindCSS: Framework de CSS para diseño responsivo.
-Flowbite React: Biblioteca de componentes para React.
-TypeScript: Superset de JavaScript que añade tipado estático.
-Instalación
+## Tecnologías Utilizadas
+
+- **React**: Librería de JavaScript para construir interfaces de usuario.
+- **TailwindCSS**: Framework de CSS para diseño responsivo.
+- **Flowbite React**: Biblioteca de componentes para React.
+- **TypeScript**: Superset de JavaScript que añade tipado estático.
+
+## Instalación
 Para levantar el proyecto en tu entorno local, sigue estos pasos:
 
 Clona el repositorio:
