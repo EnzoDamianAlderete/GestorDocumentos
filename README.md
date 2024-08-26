@@ -25,7 +25,7 @@ npm run dev
 Esto iniciará el servidor de desarrollo y podrás acceder a la aplicación en http://localhost:3000 (o el puerto que esté configurado).
 
 Estructura del Proyecto
-/src: Contiene todos los archivos fuente de la aplicación.
+/src: Contiene todos los archivos fuente de la aplicación.<br />
 /components: Componentes de React utilizados en la aplicación.
 /public: Archivos estáticos que no se procesan por Webpack como por ejemplo pdf de los documentos a listar y un json con datos de los documentos.
 Uso
