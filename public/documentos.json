@@ -1,0 +1,41 @@
+{
+    "documents": [
+        { 
+          "id": 1,
+          "name": "Documento 1", 
+          "fecha": "20/10/2020", 
+          "tipo": "Privado",
+          "owner": "Leo Messi",
+          "descripcion":"descripcion 1",
+          "file": "/TestDocumento 1.pdf"
+        },
+        { 
+          "id": 2,
+          "name": "Documento 2", 
+          "fecha": "20/10/2022", 
+          "tipo": "Público",
+          "owner": "Julio Perez",
+          "descripcion":"descripcion2",
+          "file": "/TestDocumento 2.pdf"
+        },
+        { 
+          "id": 3,
+          "name": "Documento 3", 
+          "fecha": "10/10/2023", 
+          "tipo": "Público",
+          "owner": "Julio Perez",
+          "descripcion":"",
+          "file": "/TestDocumento 3.pdf"
+        },
+        { 
+          "id": 4,
+          "name": "Documento 4", 
+          "fecha": "20/11/2023", 
+          "tipo": "Público",
+          "owner": "Florencia Romero",
+          "descripcion":"descripcion4",
+          "file": "/TestDocumento 4.pdf"
+        }
+      ]
+  }
+  
