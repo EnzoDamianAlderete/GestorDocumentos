@@ -10,28 +10,28 @@ Este proyecto es una aplicación de frontend que simula un gestor de documentos.
 - **TypeScript**: Superset de JavaScript que añade tipado estático.
 
 ## Instalación
-Para levantar el proyecto en tu entorno local, sigue estos pasos:
+Para levantar el proyecto en tu entorno local, sigue estos pasos:<br />
 
 # Clona el repositorio:
--git clone https://github.com/EnzoDamianAlderete/GestorDocumentos.git
--Navega al directorio del proyecto:
+-git clone https://github.com/EnzoDamianAlderete/GestorDocumentos.git<br />
+-Navega al directorio del proyecto:<br />
 
-cd gestor-documentos
-Instala las dependencias:
+cd gestor-documentos<br />
+Instala las dependencias:<br />
 
-npm install
-Levanta el proyecto en modo desarrollo:
-npm run dev
-Esto iniciará el servidor de desarrollo y podrás acceder a la aplicación en http://localhost:3000 (o el puerto que esté configurado).
+npm install<br />
+Levanta el proyecto en modo desarrollo:<br />
+npm run dev<br />
+Esto iniciará el servidor de desarrollo y podrás acceder a la aplicación en http://localhost:3000 (o el puerto que esté configurado).<br />
 
 Estructura del Proyecto
 /src: Contiene todos los archivos fuente de la aplicación.<br />
-/components: Componentes de React utilizados en la aplicación.
-/public: Archivos estáticos que no se procesan por Webpack como por ejemplo pdf de los documentos a listar y un json con datos de los documentos.
+/components: Componentes de React utilizados en la aplicación.<br />
+/public: Archivos estáticos que no se procesan por Webpack como por ejemplo pdf de los documentos a listar y un json con datos de los documentos.<br />
 Uso
-La aplicación permite:
-Listar documentos.
-Ver detalles de cada documento.
-Simular operaciones CRUD con datos almacenados en el archivo JSON.
+La aplicación permite:<br />
+Listar documentos.<br />
+Ver detalles de cada documento.<br />
+Simular operaciones CRUD con datos almacenados en el archivo JSON.<br />
 
 # React + TypeScript + Vite
